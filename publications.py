@@ -1,6 +1,10 @@
 '''
 This simple python script opens the recent articles published in selected journals related to 
 Planetary Science
+
+You can update the list in the dictionary 'url' accordingly 
+
+Created by Indhu Varatharajan
 '''
 
 import webbrowser
